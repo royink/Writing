@@ -2,7 +2,8 @@
 <?php $this->need('header.php'); ?>
 
     <div class="page404">
-        <p>Did not find any content.</p>
+        <p>僕は僕は</p>
+        <p>荒野にいる</p>
     </div>
 
 <?php $this->need('footer.php'); ?>
